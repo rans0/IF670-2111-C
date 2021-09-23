@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "MODULE-03",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
