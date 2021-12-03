@@ -1,0 +1,12 @@
+.new-memories-card {
+  padding: 15px 20px;
+}
+
+.image-preview {
+  border: 1px solid black;
+  justify-content: center;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  width: 50%;
+}
